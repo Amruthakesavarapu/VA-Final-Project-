@@ -2,7 +2,7 @@
 Hello This is my Final Project for UNC Charlotte's DSBA-5122 - Visual Analytics course.
 
 ## Streamlit Application Link
-[Streamlit link](https://amrutha-varshini-final-va-app.streamlit.app/)
+Here is My [Streamlit link](https://amrutha-varshini-final-va-app.streamlit.app/)
 
 ## Introduction
 The IMDB Movie Ratings dataset provides an interactive exploration of the top 1,000 movies, focusing on their ratings, genres, directors, and release years. This project aims to uncover patterns in movie ratings and highlight the elements contributing to the success of highly rated films. Through dynamic visualizations, users can better understand evolving cinematic trends and gain insights into audience preferences.
